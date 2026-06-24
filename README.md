@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tino 
 
-<!--
-**tzuvela/tzuvela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support & Solutions Engineer with experience in:
 
-Here are some ideas to get you started:
+- FinTech (Curve)
+- Enterprise Infrastructure
+- Azure & Microsoft 365
+- Linux Systems Administration
+- Developer Support (Sony PlayStation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python Development
+- AI-Assisted Support & Automation
+- APIs & Integrations
+- Cloud Technologies
+
+## Featured Projects
+
+- API Health Check
+- Tatum Wallet Monitor
+- Push Notification Backend
+- Go Process Monitor
+
+## Technologies
+
+Python • Go • SQL • Linux • Azure • REST APIs • GitHub Actions
