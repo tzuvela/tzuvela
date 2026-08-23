@@ -19,10 +19,10 @@ Technical Support & Solutions Engineer with experience in:
 
 - [Push Backend](https://github.com/tzuvela/push-backend) - Python backend service handling push-based workflows and API integrations.
 - [Tatum Wallet Monitor](https://github.com/tzuvela/tatum-wallet-monitor) - Blockchain wallet monitoring using the Tatum API.
-- [API Health Check](https://github.com/tzuvela/api-health-check) - Service for monitoring API availability and response health.
+- [API Health Check](https://github.com/tzuvela/api-health-check) - Python-based API monitoring project using Docker and Kubernetes, with configuration via ConfigMaps and container liveness monitoring.
 - [GoProc](https://github.com/tzuvela/goproc) - CLI tool for monitoring system processes in Go.
 - [Scheduled Tasks](https://github.com/tzuvela/scheduled-tasks) - GitHub Actions-based automation for scheduled Python scripts.
 
 ## Technologies
 
-Python • Go • SQL • Linux • Azure • REST APIs • GitHub Actions
+Python • Go • SQL • Linux • Azure • REST APIs • Docker • Kubernetes • GitHub Actions
