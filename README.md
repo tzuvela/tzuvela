@@ -17,6 +17,7 @@ Technical Support & Solutions Engineer with experience in:
 
 ## Featured Projects
 
+- [LLM Support Engineering](https://github.com/tzuvela/llm-support-engineering) - Python CLI for interacting with a local LLM through LM Studio, with API error handling and pytest coverage.
 - [Push Backend](https://github.com/tzuvela/push-backend) - Python backend service handling push-based workflows and API integrations.
 - [Tatum Wallet Monitor](https://github.com/tzuvela/tatum-wallet-monitor) - Blockchain wallet monitoring using the Tatum API.
 - [API Health Check](https://github.com/tzuvela/api-health-check) - Python-based API monitoring project using Docker and Kubernetes, with configuration via ConfigMaps and container liveness monitoring.
