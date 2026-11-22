@@ -23,7 +23,7 @@ Technical Support & Solutions Engineer with experience in:
 * [Tatum Wallet Monitor](https://github.com/tzuvela/tatum-wallet-monitor) - Blockchain wallet monitoring using the Tatum API.
 * [API Health Check](https://github.com/tzuvela/api-health-check) - Python-based API monitoring project using Docker and Kubernetes, with configuration via ConfigMaps and container liveness monitoring.
 * [GoProc](https://github.com/tzuvela/goproc) - CLI tool for monitoring system processes in Go.
-* [Scheduled Tasks](https://github.com/tzuvela/scheduled-tasks) - GitHub Actions-based automation for scheduled Python scripts.
+* [Linux Observability Lab – Datadog ](https://github.com/tzuvela/linux-observability-lab) - Hands-on Linux observability project using Datadog, covering host metrics, custom dashboards, metric alerting, application log collection and troubleshooting.
 
 ## Technologies
 
