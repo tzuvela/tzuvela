@@ -28,4 +28,14 @@ Currently developing practical projects that bring together infrastructure, soft
 
 ## Technologies
 
-Python • Go • SQL • Linux • Azure • REST APIs • Docker • Kubernetes • GitHub Actions
+**Languages:** Python • Go • SQL • C++
+
+**Infrastructure & Cloud:** Linux • Windows Server • Azure • Docker • Kubernetes
+
+**APIs & Backend:** REST APIs • Flask • Distributed Systems • Integrations
+
+**Monitoring & Observability:** Datadog • Prometheus • Metrics • Log Analysis
+
+**AI & LLM:** LangChain • LangGraph • LangSmith • RAG
+
+**Tools & Platforms:** Git • GitHub Actions • Microsoft SQL Server
